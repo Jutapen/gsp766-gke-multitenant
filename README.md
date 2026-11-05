@@ -11,7 +11,7 @@ Credit: **Jutapen**
 3. Jalankan:
 
 ```bash
-curl -sL https://raw.githubusercontent.com/<USERNAME>/gsp766-gke-multitenant/main/gsp766.sh -o gsp766.sh && bash gsp766.sh
+curl -sL https://raw.githubusercontent.com/Jutapen/gsp766-gke-multitenant/main/gsp766.sh -o gsp766.sh && bash gsp766.sh
 ```
 
 4. Script berhenti di Task 2, 3, 4, dan 5. Di setiap jeda, klik **Check my progress** di halaman lab, lalu tekan ENTER.
